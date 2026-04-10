@@ -35,4 +35,4 @@ I am also a huge fan of figuring out how to ethically integrate AI into my stori
 
 ## 📬 Find me
 
-[tlysik.com](https://tlysik.com) · [Bluesky](https://bsky.app/profile/tlysik.bsky.social) · [LinkedIn](https://www.linkedin.com/in/tory-lysik/) · [Twitter/X](https://x.com/tblysik)
+[tlysik.com](https://tlysik.com) · [Bluesky](https://bsky.app/profile/tlysik.bsky.social) · [LinkedIn](https://www.linkedin.com/in/tory-lysik/) · [Twitter/X](https://x.com/tblysik) · LysikTory@gmail.com
