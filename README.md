@@ -3,7 +3,7 @@ Copy
 
 # Hi, I'm Tory Lysik
  
-Data and graphics journalist, web developer, and five-language work-in-progress. Based in New York City.
+Data and graphics journalist based in New York City.
  
 I build tools and tell stories at the intersection of data, design, and public accountability. I've shipped breaking graphics that beat major outlets, built tools cited in federal legislation, and designed for print, web, social, and mobile simultaneously. Currently a Reporter at the **Tow Center for Digital Journalism at Columbia University**.
  
