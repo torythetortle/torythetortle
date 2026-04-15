@@ -1,11 +1,8 @@
-Readme · MD
-Copy
-
 # Hi, I'm Tory Lysik
  
 Data and graphics journalist based in New York City.
  
-I build tools and tell stories at the intersection of data, design, and public accountability. I've shipped breaking graphics that beat major outlets, built tools cited in federal legislation, and designed for print, web, social, and mobile simultaneously. Currently a Reporter at the **Tow Center for Digital Journalism at Columbia University**.
+I build tools and tell stories at the intersection of data, design, and public accountability. I've beat major outlets to breaking graphics, built tools cited in federal legislation, and designed for print, web, social, and mobile simultaneously. Currently a Reporter at the **Tow Center for Digital Journalism at Columbia University**.
  
 Previously: **Axios** · **The Marshall Project** · **Vox** · **Associated Press** · **Columbia Journalism Review**
  
@@ -15,15 +12,17 @@ Previously: **Axios** · **The Marshall Project** · **Vox** · **Associated Pre
  
 I report first, then build. Every graphic starts with a question, not a chart type.
  
+I'm as comfortable turning a chart in 20 minutes on a breaking news desk as I am spending three months on a data investigation.
+ 
 I write production-ready code, document my methodology, and design for mobile first — whether that's a scrollytelling interactive on a breaking news deadline or a months-long data investigation. I've built everything from custom computer vision models to living national databases to browser-based annotation tools.
  
 ---
  
 ## What I work with
  
-**Languages & analysis:** Python · R · SQL · JavaScript  
-**Graphics & interactivity:** D3 · Svelte · React · Mapbox · Observable · QGIS · ArcGIS · Datawrapper  
-**Design:** Adobe Illustrator · Photoshop · Procreate · ai2html  
+**Languages & analysis:** Python · R · SQL · JavaScript · TypeScript
+**Graphics & interactivity:** D3 · Svelte · React · Mapbox · Observable · QGIS · ArcGIS · Datawrapper
+**Design:** Adobe Illustrator · Photoshop · Procreate · ai2html · Figma
 **Methods:** FOIA · Web scraping · OSINT · NLP · Computer vision · ETL pipelines · Statistical modeling
  
 ---
@@ -45,11 +44,10 @@ I write production-ready code, document my methodology, and design for mobile fi
  
 ## Things I've built
  
+- **Custom computer vision model** — measured on-screen time for ASL performers across decades of Super Bowl footage, leading to NFL policy changes. *(Axios, 2024)*
 - **Browser-based annotation tool** — React + pdf.js + custom SVG overlay system with cross-page arrow routing, color-coded tagging, and annotation merging. Used to produce structured datasets for AI/NLP research. *(Tow Center, 2026)*
 - **Living national chemical facilities database** — ~12,000 EPA facilities, ~4,000 reported accidents, built from FOIA records using SQL + Python + Mapbox. *(Axios, 2023)*
-- **Custom computer vision model** — measured on-screen time for ASL performers across decades of Super Bowl footage, leading to NFL policy changes. *(Axios, 2024)*
 - **White House TikTok tracker** — Python scrapers + ML image analysis + NLP sentiment system tracking engagement, visuals, and messaging strategy across 101 videos. *(CJR, 2025)*
- 
 ---
  
 ## Awards
@@ -58,7 +56,6 @@ I write production-ready code, document my methodology, and design for mobile fi
 - Information is Beautiful Awards — Finalist (2023)
 - Georgia Press Association — Best Newsletter & Best Profile Story (2022)
 - Colorado Press Association — Best Investigative Story & Best Editorial Collaboration (2021)
- 
 ---
  
 ## Find me
