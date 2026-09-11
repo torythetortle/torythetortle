@@ -2,9 +2,8 @@
  
 Data and graphics journalist based in New York City.
  
-I build tools and tell stories at the intersection of data, design, and public accountability. I've beat major outlets to breaking graphics, built tools cited in federal legislation, and designed for print, web, social, and mobile simultaneously. Currently a Reporter at the **Tow Center for Digital Journalism at Columbia University**.
- 
-Previously: **Axios** · **The Marshall Project** · **Vox** · **Associated Press** · **Columbia Journalism Review**
+I build tools and tell stories at the intersection of data, design, and public accountability. I've beat major outlets to breaking graphics, built tools cited in federal legislation, and designed for print, web, social, and mobile simultaneously. 
+Previously:  ** Tow Center for Digital Journalism**· **Axios** · **The Marshall Project** · **Vox** · **Associated Press** · **Columbia Journalism Review**
  
 ---
  
